@@ -1,0 +1,18 @@
+.table {
+  width: 1000px;
+  padding: 0 0 0 30px;
+}
+.search_keyword input {
+  border-radius: 25px;
+  outline: none;
+  margin-left: 800px;
+  background-color: whitesmoke;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.search_keyword input::placeholder {
+  padding: 3px 10px;
+}
+.search_keyword {
+  margin-top: -10px;
+}
